@@ -1,0 +1,8 @@
+alphavue/public_html/inventory/index.php on line 46
+[18-Jul-2022 17:47:24 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home4/alphavue/public_html/inventory/index.php on line 46
+[18-Jul-2022 17:47:24 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home4/alphavue/public_html/inventory/index.php on line 46
+[18-Jul-2022 17:51:38 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home4/alphavue/public_html/inventory/index.php on line 46
+[18-Jul-2022 17:51:38 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home4/alphavue/public_html/inventory/index.php on line 46
+[19-Jul-2022 09:59:32 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home4/alphavue/public_html/inventory/index.php on line 46
+[19-Jul-2022 09:59:32 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /home4/alphavue/public_html/inventory/index.php on line 46
+[19-Jul-2022 12:02:19 Asia/Kolkata] PHP Warning:  Undefined array key "user_type" in /python
